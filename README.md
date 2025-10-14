@@ -45,5 +45,5 @@ Integrates with [DeepInfra Speech-to-Text API](https://deepinfra.com/) or [Googl
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/speech-to-text-app.git
-cd speech-to-text-app
+git clone https://github.com/Anurag268/speech-to-text-application.git
+cd speech-to-text-application
