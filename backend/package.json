@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@deepgram/sdk": "^4.11.2",
-    "dotenv": "^17.2.3"
-  }
-}
